@@ -1,0 +1,23 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mapty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlacOrpheus/Exercise-Tracking-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlacOrpheus/Exercise-Tracking-App/issues"
+  },
+  "homepage": "https://github.com/BlacOrpheus/Exercise-Tracking-App#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "lodash-es": "^4.17.21"
+  }
+}
